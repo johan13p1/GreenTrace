@@ -10,7 +10,7 @@ Click an image to enlarge it.
 | --- | --- | --- |
 | [![GreenTrace monthly overview with session statistics and personal memories](docs/screenshots/monthly-overview.png)](docs/screenshots/monthly-overview.png) | [![GreenTrace map with saved sessions and grouped locations](docs/screenshots/map.png)](docs/screenshots/map.png) | [![GreenTrace friends screen with an option to add friends](docs/screenshots/friends.png)](docs/screenshots/friends.png) |
 
-## Planned features
+## Features
 
 - Sessions with location, strain, duration, rating, mood, and notes
 - Photos, videos, and voice notes for personal entries
