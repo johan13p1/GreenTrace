@@ -1,22 +1,22 @@
 # GreenTrace
 
-GreenTrace ist eine iOS-App für Erwachsene, mit der persönliche Cannabis-Sessions privat dokumentiert, auf einer Karte erinnert und optional mit Freunden geteilt werden können. Ein eigener Ausstiegsmodus unterstützt außerdem dabei, Konsumpausen und persönliche Meilensteine sichtbar zu machen.
+GreenTrace is an iOS app for adults that lets you privately document personal cannabis sessions, revisit them on a map, and optionally share them with friends. A dedicated quit mode also helps you visualize breaks from consumption and personal milestones.
 
-## Geplante Funktionen
+## Planned features
 
-- Sessions mit Ort, Sorte, Dauer, Bewertung, Stimmung und Notizen
-- Fotos, Videos und Sprachnotizen zu persönlichen Einträgen
-- Kartenansicht und Erinnerungsgalerie
-- ausgewählte soziale Funktionen mit kontrollierter Sichtbarkeit
-- Ausstiegsmodus mit Statistiken und Meilensteinen
-- Widgets, Deep Links und Premiumfunktionen
+- Sessions with location, strain, duration, rating, mood, and notes
+- Photos, videos, and voice notes for personal entries
+- Map view and memory gallery
+- Selected social features with controlled visibility
+- Quit mode with statistics and milestones
+- Widgets, deep links, and premium features
 
 ## Status
 
-GreenTrace befindet sich in aktiver Entwicklung. Eine Veröffentlichung für iOS ist geplant; weitere Informationen und ein App-Store-Link folgen.
+GreenTrace is in active development. An iOS release is planned; more information and an App Store link will follow.
 
-Der Quellcode ist während der Entwicklung nicht öffentlich. Dieses Repository dient ausschließlich als Projektvorstellung.
+The source code is not public during development. This repository serves solely as a project showcase.
 
-## Hinweis
+## Notice
 
-GreenTrace richtet sich ausschließlich an Erwachsene. Die App ist weder medizinische Beratung noch eine Aufforderung zum Konsum.
+GreenTrace is intended exclusively for adults. The app is neither medical advice nor an encouragement to consume cannabis.
