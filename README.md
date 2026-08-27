@@ -2,6 +2,20 @@
 
 GreenTrace is an iOS app for adults that lets you privately document personal cannabis sessions, revisit them on a map, and optionally share them with friends. A dedicated quit mode also helps you visualize breaks from consumption and personal milestones.
 
+## Screenshots
+
+### Monthly overview
+
+![GreenTrace monthly overview with session statistics and personal memories](docs/screenshots/monthly-overview.png)
+
+### Map
+
+![GreenTrace map with saved sessions and grouped locations](docs/screenshots/map.png)
+
+### Friends
+
+![GreenTrace friends screen with an option to add friends](docs/screenshots/friends.png)
+
 ## Planned features
 
 - Sessions with location, strain, duration, rating, mood, and notes
