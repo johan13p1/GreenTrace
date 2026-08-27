@@ -4,17 +4,11 @@ GreenTrace is an iOS app for adults that lets you privately document personal ca
 
 ## Screenshots
 
-### Monthly overview
+Click an image to enlarge it.
 
-![GreenTrace monthly overview with session statistics and personal memories](docs/screenshots/monthly-overview.png)
-
-### Map
-
-![GreenTrace map with saved sessions and grouped locations](docs/screenshots/map.png)
-
-### Friends
-
-![GreenTrace friends screen with an option to add friends](docs/screenshots/friends.png)
+| Monthly overview | Map | Friends |
+| --- | --- | --- |
+| [![GreenTrace monthly overview with session statistics and personal memories](docs/screenshots/monthly-overview.png)](docs/screenshots/monthly-overview.png) | [![GreenTrace map with saved sessions and grouped locations](docs/screenshots/map.png)](docs/screenshots/map.png) | [![GreenTrace friends screen with an option to add friends](docs/screenshots/friends.png)](docs/screenshots/friends.png) |
 
 ## Planned features
 
